@@ -8,6 +8,7 @@ public class LineComparison {
 	    double x3,x4,y3,y4;
 	    double LengthofLine1,LengthofLine2;
 	    Scanner inputvalues = new Scanner(System.in);
+	    
 	    //lengthofline1 calculation
 		System.out.println("Enter the value of x1 :");
 		x1 = inputvalues.nextInt();
